@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678222961 source:c:\users\casper\desktop\codeblocksprojects\memoryex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
